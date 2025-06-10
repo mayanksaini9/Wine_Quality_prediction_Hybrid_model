@@ -7,7 +7,7 @@ This project aims to predict the quality of wine based on its physicochemical pr
 The dataset is sourced from the **UCI Machine Learning Repository**, containing various physicochemical attributes of wine samples along with their quality ratings (scaled from 0 to 10).  
 
 ## 🚀 Project Workflow  
-1. **Data Preprocessing**  
+1. **Data Preprocessing** 
    - Handling missing values (if any)  
    - Data normalization & standardization  
    - Feature selection  
